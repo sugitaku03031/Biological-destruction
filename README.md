@@ -20,4 +20,11 @@ LinuxやmacOSでもパッケージを作成していますが、今後廃止す�
 lssuessでバグや不具合を管理しています。
 Projectsで進捗状況を管理しています。
 
+## 開発システム環境
+- CPU Intel Core i7 9750H 2.60Ghz 6core 12thread
+- GPU Nvidia GeForce RTX 2070 8GB
+- RAM DDR4 16GB
+- SSD 500GB
+- HDD 1TB
+
 Developed with Unreal Engine 4
