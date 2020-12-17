@@ -13,3 +13,9 @@ Build
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Bluprints/Enemy/AgroCheck.uasset
+Content/Bluprints/Enemy/CloseEnough.uasset
+Content/Bluprints/Enemy/EnemyBlackboard.uasset
+Content/Bluprints/Enemy/EnemyController.uasset
+Content/Bluprints/Enemy/EnemyTree.uasset
+Content/Bluprints/Enemy/RapidMoveTo.uasset
