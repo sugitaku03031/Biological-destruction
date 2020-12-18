@@ -27,4 +27,14 @@ Projectsで進捗状況を管理しています。
 - SSD 500GB
 - HDD 1TB
 
+## 著作権などの注意事項
+- タイトル画面(StartMenu.uasset)
+- 設定画面(SettingOption.uasset)
+- ワールドセレクト(WorldSelection.uasset)
+- クリア画面(ClearUI.uasset)
+- 中断画面(EscMenu.uasset)
+- pictureフォルダーに保存しているすべてのテクスチャファイル(.uasset)
+
+などに使用しているデザイン（画像）の著作権は横浜システム工学院専門学校と在校生とが管理しています。
+
 Developed with Unreal Engine 4
