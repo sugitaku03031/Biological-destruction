@@ -37,4 +37,13 @@ Projectsで進捗状況を管理しています。
 
 などに使用しているデザイン（画像）の著作権は横浜システム工学院専門学校と在校生とが管理しています。
 
+## ダウンロード
+[Release](https://github.com/sugitaku03031/Biological-destruction/releases)にあります。
+
+圧縮に7zを採用しているため、専用の解凍ソフトが必要な場合があります。
+
+#### 解凍ソフト↓
+- [7-zip](https://sevenzip.osdn.jp/)
+- [Bandizip](https://jp.bandisoft.com/bandizip/)
+
 Developed with Unreal Engine 4
